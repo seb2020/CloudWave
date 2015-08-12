@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>AppSeafileClient.dll</File>
+    <File>de\AppSeafileClient.resources.dll</File>
+    <File>es\AppSeafileClient.resources.dll</File>
+    <File>fr\AppSeafileClient.resources.dll</File>
+    <File>AdMediator.config</File>
+    <File>analytics.xml</File>
+    <File>Assets\128x128.png</File>
+    <File>Assets\64x64.png</File>
+    <File>Assets\96x96.png</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\AppBar\add.png</File>
+    <File>Assets\AppBar\back.png</File>
+    <File>Assets\AppBar\feature.settings.png</File>
+    <File>Assets\AppBar\questionmark.png</File>
+    <File>Assets\AppBar\home.png</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\folder_32.png</File>
+    <File>Assets\lock_32.png</File>
+    <File>Assets\lock_open_32.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\page_text_32.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\Tiles\Tiles_Small_2015.png</File>
+    <File>Assets\users_32.png</File>
+    <File>Assets\user_32.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>README_FIRST.txt</File>
+    <File>Toolkit.Content\ApplicationBar.Add.png</File>
+    <File>Toolkit.Content\ApplicationBar.Cancel.png</File>
+    <File>Toolkit.Content\ApplicationBar.Check.png</File>
+    <File>Toolkit.Content\ApplicationBar.Delete.png</File>
+    <File>Toolkit.Content\ApplicationBar.Select.png</File>
+    <File>AppManifest.xaml</File>
+    <File>AdDuplex.WindowsPhone.dll</File>
+    <File>AmCharts.Windows.QuickCharts.WP.dll</File>
+    <File>Coding4Fun.Toolkit.Audio.dll</File>
+    <File>Coding4Fun.Toolkit.Controls.dll</File>
+    <File>Microsoft.Phone.Controls.dll</File>
+    <File>Microsoft.Phone.Controls.Maps.dll</File>
+    <File>Microsoft.Phone.Controls.Toolkit.dll</File>
+    <File Type="PCL">Microsoft.Threading.Tasks.dll</File>
+    <File Type="PCL">Microsoft.Threading.Tasks.Extensions.dll</File>
+    <File>Microsoft.Threading.Tasks.Extensions.Phone.dll</File>
+    <File Type="PCL">Newtonsoft.Json.dll</File>
+    <File Type="PCL">System.Net.Http.dll</File>
+    <File Type="PCL">System.Net.Http.Extensions.dll</File>
+    <File Type="PCL">System.Net.Http.Primitives.dll</File>
+    <File>Microsoft.Phone.Controls.Toolkit.xml</File>
+    <File>Microsoft.Threading.Tasks.xml</File>
+    <File>Microsoft.Threading.Tasks.Extensions.xml</File>
+    <File>Microsoft.Threading.Tasks.Extensions.Phone.xml</File>
+    <File>Newtonsoft.Json.xml</File>
+    <File>System.Net.Http.xml</File>
+    <File>System.Net.Http.Extensions.xml</File>
+    <File>System.Net.Http.Primitives.xml</File>
+    <File>Assets\Store\logo2015.png</File>
+    <File>Assets\Tiles\Tiles_Medium_2015.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>
